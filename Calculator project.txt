@@ -1,0 +1,12 @@
+enter first no. no1
+enter second no.
+enter the operation /,*,+,-,^
+no1 - no2 =?
+
+
+how to read?
+java.util.Scanner System.in
+
+//driver method
+main()
+calculate  (op1, op2, operator)
